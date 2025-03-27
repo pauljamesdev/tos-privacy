@@ -1,0 +1,20 @@
+# Privacy Policy  
+
+_Last updated: March 27, 2025_  
+
+Your privacy is important to us. This policy outlines how we handle data.  
+
+## 1. Information We Collect  
+We do not collect or store personal information. Our service only processes publicly available data from TikTok and Instagram.  
+
+## 2. Data Usage  
+We use TikTok and Instagram APIs to fetch trending content. We do not modify or store this data beyond temporary processing.  
+
+## 3. Third-Party Services  
+Our service depends on third-party APIs. Please review TikTok’s and Instagram’s privacy policies for details on their data handling.  
+
+## 4. Changes to This Policy  
+We may update this Privacy Policy. Continued use of our service means you accept the updated policy.  
+
+## 5. Contact  
+For questions, reach out to us via this GitHub repository.  
